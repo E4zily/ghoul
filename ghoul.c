@@ -7,6 +7,7 @@
 #endif
 
 int main() {
+	
 	int h = 1000;
 	printf("\n1000");
 	sleep(3);
@@ -15,10 +16,10 @@ int main() {
 		h = h - 7;
 		char str[5];
 		sprintf(str, "%d", h);
-	    printf("\n%s", str);
+		printf("\n%s", str);
 		usleep(10000);
 	}
 	printf("\n ");
-    return 0;
+	return 0;
+	
 }
-  
