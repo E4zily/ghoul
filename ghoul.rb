@@ -10,3 +10,4 @@ while h > -1
 end
 
 gets.chomp	
+ 
