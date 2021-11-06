@@ -12,5 +12,5 @@ Module Program
             Thread.Sleep(50)
         End While
         Console.ReadKey()
-    End Sub
+    End Sub 
 End Module
