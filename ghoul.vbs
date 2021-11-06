@@ -8,4 +8,4 @@ do while (h > -1)
 	h = h - 7
 	MsgBox h
 	WScript.Sleep 25
-loop
+loop 
