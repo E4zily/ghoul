@@ -1,3 +1,5 @@
+program ghoul;
+
 var h:integer;
 begin h:= 1000;
 while (h > -1)
