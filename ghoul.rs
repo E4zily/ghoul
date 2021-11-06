@@ -9,3 +9,4 @@ fn main() {
 	while h > -1 { h = h - 7; println!("{}", h); thread::sleep(Duration::from_millis(25)); }
 
 }
+ 
