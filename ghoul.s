@@ -31,7 +31,7 @@ LFB38:
 	subl	$32, %esp	 #,
 	call	___main	 #
 	leal	27(%esp), %esi	 #, tmp92
-	movl	$LC0, (%esp)	 #,
+	movl	$LC0, (%esp)	 #, 
 	call	_printf	 #
 	movl	$3, (%esp)	 #,
 	call	_sleep	 #
